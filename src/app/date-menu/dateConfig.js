@@ -2,9 +2,9 @@
 
 export const dateMenuConfig = {
   title: "Happy Birthday Sweet Bean ♥️",
-  subtitle: "Help me plan the perfect day with you.",
+  subtitle: "Help me plan the perfect day with you",
   message:
-    "Pick everything you're in the mood for. We can do a few, or do it all. This day is all about you. ✨",
+    "Pick everything you're in the mood for. We can do a few, or do it all! This day is all about you ✨",
 
   sections: [
     {
