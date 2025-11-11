@@ -42,7 +42,7 @@ export const dateMenuConfig = {
       label: "Refresher",
       description: "Cool down a little 🍹",
       options: [
-        { id: "mango-sago", label: "Mango Sago" },
+        { id: "hui-lau-shan", label: "Hui Lau Shan (mango sago)" },
       ],
     },
     {
