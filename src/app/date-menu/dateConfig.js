@@ -23,7 +23,7 @@ export const dateMenuConfig = {
       label: "Coffee",
       description: "A cozy coffee break ☕",
       options: [
-        { id: "matcha", label: "Matcha (maybe Aleoli?)" },
+        { id: "matcha", label: "Aleoli" },
         { id: "trafee", label: "Trafee Coffee" },
       ],
     },
